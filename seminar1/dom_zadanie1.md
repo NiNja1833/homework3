@@ -80,3 +80,4 @@ https://docs.microsoft.com/ru-ru/contribute/markdown-reference
   3. Элемент 3
 
 # Конец инструкции
+![pic end](end.jpg)
