@@ -28,6 +28,7 @@
 
 **Для просмотра разницы между зафиксированным изменениями и текущими, можно использовать можно ввести**:
 >git diff
+![pic diff](git%20diff.png)
 # Синтаксис языка Markdown
 ![syntax language Markdown](syntax%20language%20Markdown.png)
 *Справочник по Markdown от Microsoft*:
