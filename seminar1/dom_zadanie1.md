@@ -26,3 +26,5 @@
 >git diff
 # Синтаксис языка Markdown
 ![syntax language Markdown](syntax%20language%20Markdown.png)
+*Справочник по Markdown от Microsoft*:
+https://docs.microsoft.com/ru-ru/contribute/markdown-reference
