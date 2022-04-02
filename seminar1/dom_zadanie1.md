@@ -28,3 +28,6 @@
 ![syntax language Markdown](syntax%20language%20Markdown.png)
 *Справочник по Markdown от Microsoft*:
 https://docs.microsoft.com/ru-ru/contribute/markdown-reference
+ 
+  **Заголовок – выделение заголовков. Выделяют заголовки решёткой "#" в начале строки. Количество символов “#” задаёт уровень заголовка
+(поддерживается 6 уровней).**
