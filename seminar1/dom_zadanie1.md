@@ -6,7 +6,8 @@
 ![pic init](git_init.png)
 
 **Для того, чтобы получить информацию от git о текущем состоянии, нужно ввести**:
->git status
+>git status 
+![pic status](git%20status.png)
 
 **Чтобы начать отслеживать файл с именем file_name, нужно ввести**:
 >git add
