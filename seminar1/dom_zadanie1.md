@@ -45,7 +45,3 @@ https://docs.microsoft.com/ru-ru/contribute/markdown-reference
   Для того, чтобы текст курсировал вводим:
   >  *(message) * или _ (message) _ # Вводить слитно
 
-
- ***Полужирное курсивное начертание***
- дл
-
