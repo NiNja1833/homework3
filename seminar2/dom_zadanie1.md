@@ -35,12 +35,11 @@
 *и чтобы вернуться к главной ветке нужно написать*:
 >git checkout master
 
-**Для перехода к ветке с именем branch_name:**
->git checkout branch_name
-![git checkout](git%20checkout%20branch_name.png)
+Для совмещения веток используют:
+>git merge branch_name 
+![git merge](git%20merge%20branch_name.png)
 
-**Чтобы создать и сразу перейти к созданной ветке нужно:**
->git checkout -b branch_name
+*информация из branch name передастся в текущую ветку*
 
 **Для просмотра разницы между зафиксированным изменениями и текущими, можно использовать можно ввести**:
 >git diff
