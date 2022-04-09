@@ -29,6 +29,13 @@
 >git branch branch_name # имя новой ветки
 ![pic new_branch_name](gitbranch%20new_branch_name.png)
 
+****Чтобы удалить ветку нужно:**
+>git branch -d branch_name
+
+**в этом случае git проверит на то есть ли там не замердженная информация
+Если хотим удалить не проверяя ничего:*
+>git branch -D branch_name
+
 **Чтобы вернуться к предыдущему комиту с кодом commit_code, можно использовать команду**:
 >git checkout commit_code
 
