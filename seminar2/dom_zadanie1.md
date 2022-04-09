@@ -25,7 +25,7 @@
 >git branch
 ![pic branch](git_branch.png)
 
-**Чтобы создать новую ветку branch нужно:
+**Чтобы создать новую ветку branch нужно**:
 >git branch branch_name # имя новой ветки
 ![pic new_branch_name](gitbranch%20new_branch_name.png)
 
@@ -35,11 +35,13 @@
 *и чтобы вернуться к главной ветке нужно написать*:
 >git checkout master
 
-Для совмещения веток используют:
->git merge branch_name 
-![git merge](git%20merge%20branch_name.png)
+**Для перехода к ветке с именем branch_name:**
+>git checkout branch_name
+![git checkout](git%20checkout%20branch_name.png)
 
-*информация из branch name передастся в текущую ветку*
+**Чтобы создать и сразу перейти к созданной ветке нужно:**
+>git checkout -b branch_name
+
 
 **Для просмотра разницы между зафиксированным изменениями и текущими, можно использовать можно ввести**:
 >git diff
