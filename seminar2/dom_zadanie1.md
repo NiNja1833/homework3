@@ -35,6 +35,9 @@
 >git checkout branch_name
 ![git checkout](git%20checkout%20branch_name.png)
 
+**Чтобы создать и сразу перейти к созданной ветке нужно:**
+>git checkout -b branch_name
+
 **Для просмотра разницы между зафиксированным изменениями и текущими, можно использовать можно ввести**:
 >git diff
 ![pic diff](git%20diff.png)
