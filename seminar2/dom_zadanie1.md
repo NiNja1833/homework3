@@ -25,6 +25,10 @@
 >git branch
 ![pic branch](git_branch.png)
 
+**Чтобы создать новую ветку branch нужно:
+>git branch branch_name # имя новой ветки
+![pic new_branch_name](gitbranch%20new_branch_name.png)
+
 **Чтобы вернуться к предыдущему комиту с кодом commit_code, можно использовать команду**:
 >git checkout commit_code
 
