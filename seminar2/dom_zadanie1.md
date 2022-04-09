@@ -21,6 +21,10 @@
 >git log  # *журнал коммитов*
 ![pic log](git_log.png)
 
+**Чтобы просмотреть все ветки в текущем репозитории, нужно:**
+>git branch
+![pic branch](git_branch.png)
+
 **Чтобы вернуться к предыдущему комиту с кодом commit_code, можно использовать команду**:
 >git checkout commit_code
 
