@@ -1,6 +1,6 @@
 # Инструкция по работе с гитом
 ![git commands](git%20%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D1%8B.png)
-
+![new pic for title](newpicture_for_title.png)
 **Для того чтобы создать локальный репозиторий, нужно ввести**:
 >git init
 ![pic init](git_init.png)
