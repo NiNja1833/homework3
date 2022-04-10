@@ -21,6 +21,10 @@
 >git log  # *журнал коммитов*
 ![pic log](git_log.png)
 
+**Можно посмотреть состояние слияние веток добавив к команде Log тег --graph:**
+>git log --graph
+![git log --graph](git%20log%20--graph.png)
+
 **Чтобы просмотреть все ветки в текущем репозитории, нужно:**
 >git branch
 ![pic branch](git_branch.png)
